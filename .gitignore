@@ -1,0 +1,5 @@
+ap_code/
+*.dta
+slides/
+sp22_ts_pts_syllabus.pdf
+.DS_Store
